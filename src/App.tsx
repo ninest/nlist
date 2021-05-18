@@ -122,9 +122,9 @@ function App() {
         </HighlightButton>
       </form>
 
-      {/* <pre className="mt-xl p-base rounded-md bg-gray-900 text-gray-50 font-mono overflow-x-scroll">
+      <pre className="mt-xl p-base rounded-md bg-gray-900 text-gray-50 font-mono overflow-x-scroll">
         {JSON.stringify(watch(), null, 2)}
-      </pre> */}
+      </pre>
     </main>
   );
 }
